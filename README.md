@@ -10,4 +10,5 @@
 ![Data 5](https://user-images.githubusercontent.com/106539745/171010848-fc36d1fb-bc22-4cdc-8bda-447a1f1b33b9.jpg)
 # Output
 ![Output 1](https://user-images.githubusercontent.com/106539745/171011952-7e6dee8a-c53d-4427-b0c5-e52d8f5b2fe9.jpg)
-![Output 2](https://user-images.githubusercontent.com/106539745/171011990-7deac15b-76fc-401b-bb0e-9e2308336639.jpg)
+![Output 2](https://user-images.githubusercontent.com/106539745/171012197-8b3c14e9-3848-4425-80bd-edff7da856f4.jpg)
+
