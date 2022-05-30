@@ -9,5 +9,5 @@
 ![Data 4](https://user-images.githubusercontent.com/106539745/171010735-9eeaf092-c9cf-4a47-8f55-cf8427e46263.jpg)
 ![Data 5](https://user-images.githubusercontent.com/106539745/171010848-fc36d1fb-bc22-4cdc-8bda-447a1f1b33b9.jpg)
 # Output
-![Output 1](https://user-images.githubusercontent.com/106539745/171011118-6b40e813-8ddc-41ef-ae9e-67792c652239.jpg)
-![Output 2](https://user-images.githubusercontent.com/106539745/171011277-46e39b0a-f490-4c29-8a06-985ee3862084.jpg)
+![Output 1](https://user-images.githubusercontent.com/106539745/171011952-7e6dee8a-c53d-4427-b0c5-e52d8f5b2fe9.jpg)
+![Output 2](https://user-images.githubusercontent.com/106539745/171011990-7deac15b-76fc-401b-bb0e-9e2308336639.jpg)
