@@ -3,7 +3,7 @@
 ![Koneksi](https://user-images.githubusercontent.com/106539745/171009598-a22a7651-6c15-423d-8a79-3db823eee73c.jpg)
 # 2. Tampilkan data tabelnya masing-masing.
 # Input
-![Data 1](https://user-images.githubusercontent.com/106539745/171010335-2883759e-5fb2-47c5-94ba-35d70f61b987.jpg)
+![Data 1](https://user-images.githubusercontent.com/106539745/171880222-920c404c-3593-40f7-8ca1-d99429a5bd6c.jpg)
 ![Data 2](https://user-images.githubusercontent.com/106539745/171010466-385fce1f-3841-45ee-96f0-e20392c226ed.jpg)
 ![Data 3](https://user-images.githubusercontent.com/106539745/171010613-dd6c673b-3065-4ec2-a671-2d2d9699acee.jpg)
 ![Data 4](https://user-images.githubusercontent.com/106539745/171010735-9eeaf092-c9cf-4a47-8f55-cf8427e46263.jpg)
